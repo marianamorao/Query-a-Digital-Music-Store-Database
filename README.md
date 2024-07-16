@@ -1,6 +1,4 @@
 # Query-a-Digital-Music-Store-Database
-
-# Query-a-Digital-Music-Store-Database
 Project of the Udacity Data Science Nanodegree
 
 # Project Description
